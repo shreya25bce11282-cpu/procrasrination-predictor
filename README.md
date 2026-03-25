@@ -7,6 +7,12 @@ It combines machine learning with an interactive web interface for real-time pre
 
 ---
 
+## 🎯 Why this project?
+
+Procrastination is a common issue among students. This project attempts to analyze it using machine learning instead of treating it as just a habit.
+
+---
+
 ## ⚙️ Features Used
 - Task Difficulty
 - Deadline Days Left
@@ -15,6 +21,13 @@ It combines machine learning with an interactive web interface for real-time pre
 - Sleep Hours
 - Motivation Level
 - Distractions
+
+---
+
+## 🛠️ Tech Stack
+Python
+Pandas
+Scikit-learn
 
 ---
 
@@ -46,6 +59,13 @@ py -m streamlit run app.py
 
 ---
 
+## 📊 Output
+- Model accuracy
+- Classification report
+- Feature importance
+
+---
+
 ## 💡 Key Insight
 This project focuses not just on accuracy, but on modeling realistic human behavior by introducing controlled inconsistencies in the dataset.
 
@@ -64,6 +84,3 @@ This project focuses not just on accuracy, but on modeling realistic human behav
 <img width="877" height="833" alt="image" src="https://github.com/user-attachments/assets/59d2e54c-d920-45fb-ae1c-7020228252e2" />
 
 <img width="837" height="797" alt="image" src="https://github.com/user-attachments/assets/4a9f9327-6d8d-42de-a365-561a055b3b11" />
-
-
-  
