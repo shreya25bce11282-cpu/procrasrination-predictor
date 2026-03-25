@@ -56,3 +56,14 @@ This project focuses not just on accuracy, but on modeling realistic human behav
 - Add psychological features
 - Try advanced ML models
 - Deploy online
+
+---
+
+## 📸 Screenshots 
+
+<img width="877" height="833" alt="image" src="https://github.com/user-attachments/assets/59d2e54c-d920-45fb-ae1c-7020228252e2" />
+
+<img width="837" height="797" alt="image" src="https://github.com/user-attachments/assets/4a9f9327-6d8d-42de-a365-561a055b3b11" />
+
+
+  
